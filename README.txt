@@ -9,6 +9,8 @@ This is a simple university course management application created with Java and 
 HOW TO RUN PROGRAM
 ===================
 after installing JDK
+
+go to the src directory (course_manager/src)
 run the following on command line:
 
 javac -Xlint:unchecked SystemDriver.java
